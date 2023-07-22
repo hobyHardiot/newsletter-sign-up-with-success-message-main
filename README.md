@@ -30,14 +30,14 @@ Users should be able to:
 
 ### Screenshot
 
-![](screenshots/desktop-screen.png)
-![](screenshots/mobile-screen.png)
-![](screenshots/succes-message.png)
+![](screenshot/desktop-screen.png)
+![](screenshot/mobile-screen.png)
+![](screenshot/succes-message.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/newsletter-sign-up-with-success-message-and-animation-FnfMtBkEDZ) 
+- Live Site URL: [Add live site URL here](https://glowing-longma-30fc80.netlify.app/)
 
 ## My process
 
