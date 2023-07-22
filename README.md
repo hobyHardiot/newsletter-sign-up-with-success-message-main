@@ -36,8 +36,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/newsletter-sign-up-with-success-message-and-animation-FnfMtBkEDZ) 
-- Live Site URL: [Add live site URL here](https://glowing-longma-30fc80.netlify.app/)
+- Solution URL : [Solution](https://www.frontendmentor.io/solutions/newsletter-sign-up-with-success-message-and-animation-FnfMtBkEDZ) 
+- Live Site URL: [Live](https://glowing-longma-30fc80.netlify.app/)
 
 ## My process
 
