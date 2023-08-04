@@ -48,7 +48,7 @@ Users should be able to:
 - Flexbox
 - CSS Grid
 - JavaScript 
- 
+ -VSCode 
  
  
 ### Useful resources 
